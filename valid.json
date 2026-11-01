@@ -1,0 +1,20 @@
+[
+    {
+        "student_id": "S101",
+        "name": "Manish",
+        "department": "CSE",
+        "marks": [78, 65, 88]
+    },
+    {
+        "student_id": "S102",
+        "name": "Ratan",
+        "department": "CSE",
+        "marks": [35, 72, 61]
+    },
+    {
+        "student_id": "S103",
+        "name": "Sarthak",
+        "department": "IT",
+        "marks": [90, 85, 95]
+    }
+]
